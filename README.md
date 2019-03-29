@@ -1,2 +1,2 @@
 # DetroitBlightTicket
-Machine Learning model that predicts blight ticket compliance in Detroit
+Machine Learning model that predicts the probability that a blight ticket will be paid
